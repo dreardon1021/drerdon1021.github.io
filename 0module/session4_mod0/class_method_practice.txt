@@ -1,0 +1,38 @@
+Class = Book
+
+Attributes:
+
+Title (string)
+Author(string)
+pageCount (integer)
+bindingType (string)
+eBook (boolean)
+increaseFontSize(integer)
+tableOfContents (array)
+
+Methods:
+
+isEBook (True or False)
+readAuthorName (prints string)
+changeFontSize (integer)
+turnPage (increase/decrese current page #)
+findDesiredChapterNumber (integer checks table of contents)
+
+Object 1
+    Game of Thrones
+
+    1.Game of Thrones
+    2.Author "George RR Martin"
+    3.2002
+    4."Cloth"
+    5.False
+    6.12
+    7.80
+    8.[1, 2, 3, 4 , etc.]
+
+
+    False
+    George RR Martin
+    14
+    1800 + 1 = 1801
+    

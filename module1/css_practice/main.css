@@ -1,0 +1,21 @@
+.track-package{
+  background-color: #f0c14b;
+}
+
+.other-buttons{
+  background-color: grey;
+  display: block;
+}
+
+.grey-buttons{
+position: relative;
+top: 10px;
+}
+
+.track-package, .other-buttons{
+  width: 200px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 10px
+
+}
